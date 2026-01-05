@@ -1,5 +1,8 @@
-⬢ Alternate Skirt ⬢
-This mod is a overhaul of the lower skirt . It is designed for users who want a more "industrial" look, better stability, and integrated display support and reusing the stock bottom panel from a v0.2.
+# ⬢ Alternate Skirt ⬢
+
+This mod is a overhaul of the lower skirt . It is designed for users who want a more "industrial" look, better stability, larger display support and want to reuse the stock bottom panel from a v0.2.
+
+<p align="center"><img width="750" src="Images/Render.png"></p>
 
 ## Key Features
 
@@ -35,7 +38,8 @@ Optional Configurations
 Foot Preference: If you prefer the original V0.2 look, you can still use the Stock V0.2 Feet. If doing so, do not print the "Foot Trim" pieces, as these are specifically designed to adapt the larger V2.4/Trident feet.
 
 ## Future Roadmap
-[ ] Alternative Screen Mounts: Support for other Screens
+Alternative Screen Mounts: Support for other Screens
 
-[ ] Integrated Skirt Fans?
+Integrated Skirt Fans?
+
 
