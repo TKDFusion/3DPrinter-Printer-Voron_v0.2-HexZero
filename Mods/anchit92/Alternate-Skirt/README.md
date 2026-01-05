@@ -20,6 +20,7 @@ More Hexagons? I havent counted.
 
 ## Mod Guide
 Changed Parts
+
 This mod replaces every part below the frame(except the rear motor mount). You will need to print the full set of front, side, rear skirts and corners provided in this repository.
 The front accent piece of the skirt just snaps onto the screen.
 
@@ -41,5 +42,6 @@ Foot Preference: If you prefer the original V0.2 look, you can still use the Sto
 Alternative Screen Mounts: Support for other Screens
 
 Integrated Skirt Fans?
+
 
 
